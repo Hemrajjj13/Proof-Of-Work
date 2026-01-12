@@ -28,6 +28,12 @@ A classic game implementation featuring a score-tracking system.
 * **Concepts Used:** Math.random() logic, `localStorage` for data saving, and DOM updates.
 * **Link:** [View Project](https://github.com/Hemrajjj13/Rock-Paper-Scissors)
 
+### 🐍 [Snake Game](https://github.com/Hemrajjj13/Javascript-Learning/tree/main/PlayGround/Snake-Game)
+A classic Snake Game implementation focused on real-time game logic and state management.
+* **Key Features:** Grid-based movement system, continuous game loop, wall and self-collision detection, score and timer tracking.
+* **Concepts Used:** Array-based state management, keyboard event handling, `setInterval` game loop, and `localStorage` for high-score persistence.
+* **Link:** [View Project](https://github.com/Hemrajjj13/Javascript-Learning/tree/main/PlayGround/Snake-Game)
+
 ---
 
 ## 🛠️ Advanced Applications
